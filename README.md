@@ -1,2 +1,3 @@
-# hello-word
-first repository test
+# hello-world
+
+I somehow managed to misspell world
